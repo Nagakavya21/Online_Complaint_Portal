@@ -77,6 +77,7 @@ This project is licensed under the MIT License — free to use and modify.
 👩‍💻 Author
 
 Kavya
+
 📧 Email: kavyakatragadda41@gmail.com
 
 🔗 LinkedIn: https://www.linkedin.com/in/kavya-katragadda-345278345/
