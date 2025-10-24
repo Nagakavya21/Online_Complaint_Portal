@@ -52,14 +52,19 @@ A full-stack web application that allows users to **submit complaints**, employe
 
 Backend
 
+
 cd backend
+
 npm install
 
 
 Frontend
 
+
 cd ../frontend
+
 npm install
+
 ---
 
 ✅ Frontend → http://localhost:3000
