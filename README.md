@@ -50,7 +50,7 @@ A full-stack web application that allows users to **submit complaints**, employe
 
 ### 1️⃣ Install Dependencies
 
-Backend
+## Backend
 
 
 cd backend
@@ -58,7 +58,7 @@ cd backend
 npm install
 
 
-Frontend
+## Frontend
 
 
 cd ../frontend
